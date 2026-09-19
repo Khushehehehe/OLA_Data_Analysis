@@ -1,2 +1,2 @@
 # OLA_Data_Analysis
-Ola Ride Booking Analysis using SQL and Power BI
+Built an OLA ride-booking dashboard that uncovered key cancellation and vehicle performance trends in July.
